@@ -4,9 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -21,10 +18,8 @@ public class NewTest {
         stepLogin();
         stepCredentials();
         stepDeconnexion();
-
-        //Assert.assertTrue(title.contains("Demo Guru99 Page"));
     }
-    //@ Description("Step 01 - Login")
+
     public void stepLogin() throws InterruptedException {
         Thread.sleep(2000);
         WebElement buttonAccount = driver.findElement(By.cssSelector("button[class*='e-button-account']"));
@@ -50,7 +45,6 @@ public class NewTest {
         Thread.sleep(2000);
     }
 
-    //@Description("Step 03 - Deconnexion")
     public void stepDeconnexion() throws InterruptedException {
         Thread.sleep(15000);
         WebElement buttonAccount = driver.findElement(By.cssSelector(".e-avatar"));
@@ -60,7 +54,6 @@ public class NewTest {
         WebElement optDeconn = driver.findElement(By.cssSelector(".account-panel-item-logout .menu-tab-label"));
         optDeconn.click();
 
-        //WebElement buttonAccount = driver.findElement(By.cssSelector("button[class*='e-button-account has-tooltip is-logged']"));
     }
 
     @BeforeTest
@@ -68,9 +61,6 @@ public class NewTest {
 
         System.setProperty("webdriver.chrome.driver", "C:\\temp\\seleniumDriver\\chromedriver.exe");
         driver = new ChromeDriver();
-
-
-
     }
     @AfterTest
     public void afterTest() {
