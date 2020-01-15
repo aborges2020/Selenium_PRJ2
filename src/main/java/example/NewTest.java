@@ -52,13 +52,12 @@ public class NewTest {
 
     //@Description("Step 03 - Deconnexion")
     public void stepDeconnexion() throws InterruptedException {
-        Thread.sleep(5000);
-        WebDriverWait wait = new WebDriverWait(driver, 10);
-        WebElement buttonAccount = wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("button[class*='e-button-account']")));
+        Thread.sleep(15000);
+        WebElement buttonAccount = driver.findElement(By.cssSelector(".e-avatar"));
         buttonAccount.click();
 
-        Thread.sleep(2000);
-        WebElement optDeconn = wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[class*='menu-tab-label']")));
+        Thread.sleep(5000);
+        WebElement optDeconn = driver.findElement(By.cssSelector(".account-panel-item-logout .menu-tab-label"));
         optDeconn.click();
 
         //WebElement buttonAccount = driver.findElement(By.cssSelector("button[class*='e-button-account has-tooltip is-logged']"));
