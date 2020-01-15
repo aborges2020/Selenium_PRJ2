@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4d82290-f5f6-4ac3-bd4a-eca8de03072b" name="Default Changelist" comment="" />
+    <list default="true" id="c4d82290-f5f6-4ac3-bd4a-eca8de03072b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/NewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/NewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/NewTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/NewTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +49,97 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.NewTest (1)">
+    <configuration name="NewTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_PRJ2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.NewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_PRJ2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.NewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_PRJ2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.NewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_PRJ2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.NewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_PRJ2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.NewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="TestNG">
       <module name="Selenium_PRJ2" />
       <option name="SUITE_NAME" value="" />
@@ -68,6 +159,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.Test" />
+      <item itemvalue="TestNG.NewTest (5)" />
+      <item itemvalue="TestNG.NewTest (3)" />
+      <item itemvalue="TestNG.NewTest (4)" />
+      <item itemvalue="TestNG.NewTest" />
+      <item itemvalue="TestNG.NewTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.NewTest (1)" />
+        <item itemvalue="TestNG.NewTest" />
+        <item itemvalue="TestNG.NewTest (4)" />
+        <item itemvalue="TestNG.NewTest (3)" />
+        <item itemvalue="TestNG.NewTest (5)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -99,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578980550668</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first version">
+      <created>1579031822366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579031822366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,14 +230,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578978090470" />
-    <state x="689" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578979807882">
+    <state x="689" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579054576601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1578979807882" />
-    <state x="580" y="116" key="CommitChangelistDialog2" timestamp="1578980620523">
+    <state x="689" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1579054576601" />
+    <state x="580" y="116" key="CommitChangelistDialog2" timestamp="1579031818705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="580" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578980620523" />
+    <state x="580" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579031818705" />
     <state x="694" y="281" key="EnvironmentVariablesDialog" timestamp="1578978118088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -131,26 +246,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578980440392" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579031530282">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579057934081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579031530282" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579031530282">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579057934081" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579057934080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579031530282" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579031530281">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579057934080" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579057934080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579031530281" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579031530282">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579057934080" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579057934081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579031530282" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1578979957336">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579057934081" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1579052825912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578979957336" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579052825912" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1579055088857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579055088857" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1579031969970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579031969970" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578980597974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
